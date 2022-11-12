@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c239c458-bfbe-4ceb-a739-57d7b07b537a" name="Changes" comment="12-11-2022 first commit">
-      <change afterPath="$PROJECT_DIR$/src/decimalcomparator/DecimalComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decimalcomparator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/decimalcomparator/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c239c458-bfbe-4ceb-a739-57d7b07b537a" name="Changes" comment="Decimal Comparator">
+      <change afterPath="$PROJECT_DIR$/src/barkingdog/BarkingDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/barkingdog/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/barkingdog/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/barkingdog/ReadMe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
