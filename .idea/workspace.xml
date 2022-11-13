@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c239c458-bfbe-4ceb-a739-57d7b07b537a" name="Changes" comment="Decimal Comparator">
-      <change afterPath="$PROJECT_DIR$/src/barkingdog/BarkingDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/barkingdog/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/barkingdog/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/barkingdog/ReadMe.md" afterDir="false" />
+    <list default="true" id="c239c458-bfbe-4ceb-a739-57d7b07b537a" name="Changes" comment="Barking Dog">
+      <change afterPath="$PROJECT_DIR$/src/equalsumcheck/EqualSumChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equalsumcheck/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equalsumcheck/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teennumberchecker/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teennumberchecker/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teennumberchecker/TeenNumberChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,39 +49,13 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.decimalcomparator.Main">
+  <component name="RunManager" selected="Application.teennumberchecker.Main">
     <configuration name="BarkingDog.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BarkingDog.Main" />
       <module name="CoreJavaLearning" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="BarkingDog.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="megabyteconverter.Main" />
-      <module name="CoreJavaLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="megabyteconverter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpeedConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="speedconverter.SpeedConverter" />
-      <module name="CoreJavaLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="speedconverter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,6 +76,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="equalsumcheck.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="equalsumcheck.Main" />
+      <module name="CoreJavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="equalsumcheck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="leapyear.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leapyear.Main" />
       <module name="CoreJavaLearning" />
@@ -111,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="teennumberchecker.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teennumberchecker.Main" />
+      <module name="CoreJavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="teennumberchecker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.teennumberchecker.Main" />
+        <item itemvalue="Application.equalsumcheck.Main" />
         <item itemvalue="Application.decimalcomparator.Main" />
         <item itemvalue="Application.leapyear.Main" />
         <item itemvalue="Application.BarkingDog.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.SpeedConverter" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668204222017</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Barking Dog">
+      <created>1668239147324</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668239147324</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,7 +170,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -168,6 +191,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated ReadMe.md" />
     <MESSAGE value="12-11-2022 first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="12-11-2022 first commit" />
+    <MESSAGE value="Decimal Comparator" />
+    <MESSAGE value="Barking Dog" />
+    <option name="LAST_COMMIT_MESSAGE" value="Barking Dog" />
   </component>
 </project>
