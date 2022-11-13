@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c239c458-bfbe-4ceb-a739-57d7b07b537a" name="Changes" comment="Barking Dog">
-      <change afterPath="$PROJECT_DIR$/src/equalsumcheck/EqualSumChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/equalsumcheck/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/equalsumcheck/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/teennumberchecker/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/teennumberchecker/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/teennumberchecker/TeenNumberChecker.java" afterDir="false" />
+    <list default="true" id="c239c458-bfbe-4ceb-a739-57d7b07b537a" name="Changes" comment="13-11-2023">
+      <change afterPath="$PROJECT_DIR$/src/areacalculator/AreaCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/areacalculator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/areacalculator/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intequalityprinter/IntEqualityPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intequalityprinter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intequalityprinter/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playingcat/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playingcat/PlayingCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/playingcat/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/printyearanddays/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/printyearanddays/MinutesToYearsDaysCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/printyearanddays/ReadMe.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,25 +43,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
     ]
   }
-}</component>
-  <component name="RunManager" selected="Application.teennumberchecker.Main">
-    <configuration name="BarkingDog.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BarkingDog.Main" />
+}]]></component>
+  <component name="RunManager" selected="Application.playingcat.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="areacalculator.Main" />
       <module name="CoreJavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BarkingDog.*" />
+          <option name="PATTERN" value="areacalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="decimalcomparator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decimalcomparator.Main" />
+    <configuration name="intequalityprinter.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intequalityprinter.Main" />
       <module name="CoreJavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="decimalcomparator.*" />
+          <option name="PATTERN" value="intequalityprinter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="equalsumcheck.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="equalsumcheck.Main" />
+    <configuration name="playingcat.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="playingcat.Main" />
       <module name="CoreJavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="equalsumcheck.*" />
+          <option name="PATTERN" value="playingcat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leapyear.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leapyear.Main" />
+    <configuration name="printyearanddays.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="printyearanddays.Main" />
       <module name="CoreJavaLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leapyear.*" />
+          <option name="PATTERN" value="printyearanddays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.playingcat.Main" />
+        <item itemvalue="Application.intequalityprinter.Main" />
+        <item itemvalue="Application.printyearanddays.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.teennumberchecker.Main" />
-        <item itemvalue="Application.equalsumcheck.Main" />
-        <item itemvalue="Application.decimalcomparator.Main" />
-        <item itemvalue="Application.leapyear.Main" />
-        <item itemvalue="Application.BarkingDog.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668239147324</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="13-11-2023">
+      <created>1668325535625</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668325535625</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +209,7 @@
     <MESSAGE value="12-11-2022 first commit" />
     <MESSAGE value="Decimal Comparator" />
     <MESSAGE value="Barking Dog" />
-    <option name="LAST_COMMIT_MESSAGE" value="Barking Dog" />
+    <MESSAGE value="13-11-2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="13-11-2023" />
   </component>
 </project>
